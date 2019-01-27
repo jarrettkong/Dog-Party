@@ -14,3 +14,7 @@ Below is the recreated webpage:
 ## Getting Started
 
 Open the ```index.html``` file in your web browser of choice.
+
+## Known Issues
+
+While the website is currently formatted for many mobile devices, it does not respond to resizing or zooming of the brower window itself.

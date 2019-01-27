@@ -24,7 +24,7 @@ header {
 
 /* The container for the links and logo */
 #nav-container {
-  width: 65%;
+  width: 1080px%;
   height: inherit;
   margin: auto;
 }
@@ -140,7 +140,7 @@ button:focus {
 
 /* Second section, contains main dog content */
 #content {
-  width: 65%;
+  width: 1080px;
   margin: auto;
 }
 
