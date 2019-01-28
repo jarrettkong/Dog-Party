@@ -11,9 +11,17 @@ Below is the recreated webpage:
 
 ![My completed webpage](https://i.imgur.com/rexzjsP.jpg)
 
+Tablet:
+
+![Tablet version](https://i.imgur.com/Trn5uIO.jpg)
+
+Mobile:
+
+![Mobile version](https://i.imgur.com/3GXL2fB.png)
+
 ## Getting Started
 
-Open the ```index.html``` file in your web browser of choice.
+Open the ```index.html``` file in your web browser of choice or navigate to https://jarrettkong.github.io/Dog-Party/ to view it in the browser.
 
 ## Known Issues
 

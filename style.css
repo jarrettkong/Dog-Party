@@ -24,7 +24,7 @@ header {
 
 /* The container for the links and logo */
 #nav-container {
-  width: 1080px%;
+  width: 1080px;
   height: inherit;
   margin: auto;
 }
